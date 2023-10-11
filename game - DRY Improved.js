@@ -1,4 +1,4 @@
-// The Game of Life
+// The Game of Life - Better practices
 
 // Suppose you have an M by N board of cells, where each cell is marked as alive or dead.
 // This arrangement of the board is called the state, and the next board state is found according to a set of rules:
